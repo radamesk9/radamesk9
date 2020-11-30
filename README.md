@@ -25,25 +25,28 @@ I'm a enthusiast of new technologies, always looking for new ways to enhance the
 Stacks:
 <ul>
   <li>
-    <a>HTML5</a>
+    <a>HTML5 -> </a>
   </li>
   <li>
     <a>CSS3</a>
   </li>
   <li>
-    <a>PHP</a>
+    <a>PHP - https://www.php.net/</a>
   </li>  
   <li>  
-    <a>Javascript</a>
+    <a>Javascript - (https://www.javascript.com/)</a>
   </li>  
   <li>
-    <a>Vue.js</a>
+    <a>Vue.js - (https://vuejs.org/)</a>
   </li>  
   <li>
-    <a>Python</a>
+    <a>Python - (https://www.python.org/)</a>
   </li>  
   <li>
-    <a>C++</a>
+    <a>C++ - (https://www.cplusplus.com/)</a>
+  </li>
+  <li>
+    <a>Jquery - (https://jquery.com/)</a>
   </li>
 </ul>
 <p>Done with dedication 👋🏽 Contact me!<br></p>
