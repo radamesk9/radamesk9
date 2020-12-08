@@ -25,7 +25,7 @@ I'm a enthusiast of new technologies, always looking for new ways to enhance the
 Stacks:
 <ul>
   <li>
-    <a>HTML5 -> </a>
+    <a>HTML5</a>
   </li>
   <li>
     <a>CSS3</a>
