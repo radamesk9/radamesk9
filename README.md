@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Feito com dedicação por Radamés Terhorst 👋🏽 Entre em contato!
 -->
 
-I'm a Front-End Developer and I like to think that I am a mad scientist myself, that likes to experiment all technologies, test all methods possible, and choose the best path to achieve my goals.
+I'm a Full-stack Dev. and I like to think that I am a mad scientist myself, that likes to experiment all technologies, test all methods possible, and choose the best path to achieve my goals.
 
 I'm a enthusiast of new technologies, always looking for new ways to enhance the usability and funcionality of interfaces.
 <h4 align="center"> 
