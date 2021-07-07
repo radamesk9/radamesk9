@@ -32,7 +32,10 @@ Stacks:
   </li>
   <li>
     <a>PHP - https://www.php.net/</a>
-  </li>  
+  </li>
+  <li>
+    <a>Typescript - https://www.typescriptlang.org/</a>
+  </li>
   <li>  
     <a>Javascript - (https://www.javascript.com/)</a>
   </li>
