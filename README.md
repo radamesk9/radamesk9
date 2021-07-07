@@ -37,6 +37,9 @@ Stacks:
     <a>Javascript - (https://www.javascript.com/)</a>
   </li>  
   <li>
+  <li>
+    <a>Angular - (https://angular.io/)</a>
+  </li>
     <a>Vue.js - (https://vuejs.org/)</a>
   </li>  
   <li>
