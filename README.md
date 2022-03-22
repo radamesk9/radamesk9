@@ -33,6 +33,9 @@ Stacks:
   <li>
     <a>PHP - https://www.php.net/</a>
   </li>
+	<li>
+    <a>Angular - (https://angular.io/)</a>
+  </li>
   <li>
     <a>Typescript - https://www.typescriptlang.org/</a>
   </li>
@@ -40,19 +43,10 @@ Stacks:
     <a>Javascript - (https://www.javascript.com/)</a>
   </li>
   <li>
-    <a>Angular - (https://angular.io/)</a>
-  </li>
-  <li>
-    <a>Vue.js - (https://vuejs.org/)</a>
-  </li>  
-  <li>
     <a>Python - (https://www.python.org/)</a>
   </li>  
   <li>
     <a>C++ - (https://www.cplusplus.com/)</a>
-  </li>
-  <li>
-    <a>Jquery - (https://jquery.com/)</a>
   </li>
 </ul>
 <p>Done with dedication 👋🏽 Contact me!<br></p>
