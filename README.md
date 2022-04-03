@@ -34,7 +34,7 @@ Stacks:
     <a>PHP - https://www.php.net/</a>
   </li>
 	<li>
-    <a>Angular - (https://angular.io/)</a>
+    <a>Angular ver.8/12 - (https://angular.io/)</a>
   </li>
   <li>
     <a>Typescript - https://www.typescriptlang.org/</a>
@@ -45,9 +45,6 @@ Stacks:
   <li>
     <a>Python - (https://www.python.org/)</a>
   </li>  
-  <li>
-    <a>C++ - (https://www.cplusplus.com/)</a>
-  </li>
 </ul>
 <p>Done with dedication 👋🏽 Contact me!<br></p>
 <h4>| c.obvio@gmail.com |</h4>
