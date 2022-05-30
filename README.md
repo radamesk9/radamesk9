@@ -33,7 +33,7 @@ Stacks:
   <li>
     <a>PHP - https://www.php.net/</a>
   </li>
-	<li>
+  <li>
     <a>Angular ver.8/12 - (https://angular.io/)</a>
   </li>
   <li>
@@ -44,6 +44,9 @@ Stacks:
   </li>
   <li>
     <a>Python - (https://www.python.org/)</a>
+  </li>
+  <li>
+    <a>Node.js - (https://nodejs.org/en/)</a>
   </li>  
 </ul>
 <p>Done with dedication 👋🏽 Contact me!<br></p>
